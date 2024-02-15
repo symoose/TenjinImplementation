@@ -11,7 +11,7 @@
   <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
   ```
 <p align="center">
-    <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/2a9263fb-0637-49a5-aac8-27052e883132">
+<img src="https://i.ibb.co/MRLXQvb/Screenshot-2024-02-15-at-2-38-25-PM.png" alt="Screenshot-2024-02-15-at-2-38-25-PM" border="0">
 </p>
 
 - Now, add the following dependencies in your mainTemplate.gradle file
@@ -23,7 +23,7 @@
   }
   ```
   <p align="center">
-    <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/98bb0363-aeaa-4411-9f8f-654520520f98">
+<img src="https://i.ibb.co/MRY7Bf7/Screenshot-2024-02-15-at-2-52-22-PM.png" alt="Screenshot-2024-02-15-at-2-52-22-PM" border="0">
 </p> 
 
 - Download the TenjinInit.cs file from this repo and add it to your AdsInitializer plugin <br/>
@@ -31,7 +31,7 @@
 - In the TenjinInit file, go to the **TenjinConnect** function, and add your key as a string where *instance* is being created <br/>
 
    <p align="center">
-    <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/23515b79-4ce7-4131-8295-1e88223bc357">
+<img src="https://i.ibb.co/7b0nkC6/Screenshot-2024-02-15-at-4-10-48-PM.png" alt="Screenshot-2024-02-15-at-4-10-48-PM" border="0">
 </p> 
 
 
@@ -43,19 +43,21 @@
 
 
   <p align="center">
-    <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/719f3536-e2fa-46ba-831b-1453c55dd533">
+    <img src="https://i.ibb.co/ZN9Qqw3/Screenshot-2024-02-12-at-5-29-47-PM.png" alt="Screenshot-2024-02-12-at-5-29-47-PM" border="0">
 </p> 
 
 <p align="center">
-    <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/16c357e0-d11f-4475-8435-52c6304d7dd9">
+<img src="https://i.ibb.co/j5h87YF/Screenshot-2024-02-12-at-5-30-24-PM.png" alt="Screenshot-2024-02-12-at-5-30-24-PM" border="0">
 </p> 
+
+
 
 ## Additional Info
 
 - Unity might get stuck in an infinite loop when importing the Tenjin Unity Package. Untick **Editor** folder to solve the issue
 
  <p align="center">
-    <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/f8d78a4d-bad8-4420-b7d5-2b43cf89b19b">
+<img src="https://i.ibb.co/KFKJ5w9/Screenshot-2024-02-15-at-3-04-13-PM.png" alt="Screenshot-2024-02-15-at-3-04-13-PM" border="0">
 </p> 
 
 
