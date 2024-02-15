@@ -10,5 +10,5 @@ Tenjin Implementation in Android for AppLovin
   <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
   ```
 
-  ![alt text](https://github.com/[symoose]/[TenjinImplementation]/blob/[main]/image.jpg?raw=true)
+  ![alt text](https://github.com/[symoose]/[TenjinImplementation]/blob/[main]/AndroidManifest.png?raw=true)
 
