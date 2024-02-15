@@ -50,7 +50,6 @@
     <img src="https://github.com/symoose/TenjinImplementation/assets/160117832/16c357e0-d11f-4475-8435-52c6304d7dd9">
 </p> 
 
-- **Disclaimer:** CMP implementation has not been tested yet 
 
 
 
