@@ -19,7 +19,7 @@ public class TenjinInit : MonoBehaviour
 
     public void TenjinConnect()
     {
-        BaseTenjin instance = Tenjin.getInstance("XXXPFH5FVBDAGYYNG1C4W8D9FNTXKXWJ");
+        BaseTenjin instance = Tenjin.getInstance("AAAAAAAAAAAAAAAAAAAAAAA");
         instance.SetAppStoreType(AppStoreType.googleplay);
         bool optInOut = instance.OptInOutUsingCMP();
         if (optInOut) instance.OptIn();
